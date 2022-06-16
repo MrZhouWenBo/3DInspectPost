@@ -1,0 +1,4 @@
+/media/jose/6842930A30C05552/3Drecgonization/code/codeBackUp/toolsCode/postProcessCodeC++/build/CMakeFiles/rebuild_cache.dir
+/media/jose/6842930A30C05552/3Drecgonization/code/codeBackUp/toolsCode/postProcessCodeC++/build/CMakeFiles/edit_cache.dir
+/media/jose/6842930A30C05552/3Drecgonization/code/codeBackUp/toolsCode/postProcessCodeC++/build/CMakeFiles/main.dir
+/media/jose/6842930A30C05552/3Drecgonization/code/codeBackUp/toolsCode/postProcessCodeC++/build/CMakeFiles/postProcess.dir
